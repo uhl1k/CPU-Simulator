@@ -1,6 +1,6 @@
 # CPU Simulator
 
-This is a C++ program that I made for course Programing in C/C++ in winter semester of 2022/2030 academic year on CTU in Prague. It a simulation of a simple CPU. Insparation for this was project made by Ben Eater in which he built CPU using TTL logic. The project can be found at https://eater.net/8bit.
+This is a C++ program that I made for course Programing in C/C++ in winter semester of 2022/2023 academic year on CTU in Prague. It a simulation of a simple 8-bit CPU. Inspiration for this was project made by Ben Eater in which he built CPU using TTL logic. The project can be found at https://eater.net/8bit.
 
 ## How to build the program
 
